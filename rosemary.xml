@@ -8,9 +8,9 @@
    <!-- Trees -->
    <project path="device/xiaomi/rosemary" name="Nukxx/android_device_xiaomi_rosemary" remote="hub" revision="lineage-20" clone-depth="1"/>
    
-   <project path="kernel/xiaomi/mt6785" name="Nukxx/proprietary_vendor_xiaomi_rosemary" remote="hub" revision="lineage-20" clone-depth="1"/>
+   <project path="kernel/xiaomi/mt6785" name="Nukxx/android_kernel_xiaomi_mt6785" remote="hub" revision="lineage-20" clone-depth="1"/>
    
-   <project path="vendor/xiaomi/rosemary" name="Nukxx/android_kernel_xiaomi_mt6785" remote="hub" revision="lineage-20" clone-depth="1"/>
+   <project path="vendor/xiaomi/rosemary" name="Nukxx/proprietary_vendor_xiaomi_rosemary" remote="hub" revision="lineage-20" clone-depth="1"/>
    
    <!-- SePolicy -->
    <project path="device/mediatek/sepolicy_vndr" name="nukxx/device_mediatek_sepolicy_vndr" remote="hub" revision="lineage-20" clone-depth="1"/>
