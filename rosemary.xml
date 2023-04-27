@@ -19,5 +19,8 @@
    <project path="hardware/mediatek" name="nukxx/android_hardware_mediatek" remote="hub" revision="lineage-20" clone-depth="1"/>
    
    <project path="hardware/xiaomi" name="nukxx/android_hardware_xiaomi" remote="hub" revision="lineage-20"/>
+   
+   <!-- Clang -->
+   <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="tejassinggh/clang-r450784d" remote="lab" revision="master" clone-depth="1"/>
 
 </manifest>
