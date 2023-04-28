@@ -6,7 +6,7 @@
    <remote name="hubnukx" fetch="https://github.com/Nukxx"/>
 
    <!-- Trees -->
-   <project path="device/xiaomi/rosemary" name="android_device_xiaomi_rosemary" remote="hubnukx" revision="yaap-thirteen" clone-depth="1"/>
+   <project path="device/xiaomi/rosemary" name="android_device_xiaomi_rosemary" remote="hubnukx" revision="P-404-tokui" clone-depth="1"/>
    <project path="kernel/xiaomi/mt6785" name="android_kernel_xiaomi_mt6785" remote="hubnukx" revision="lineage-20" clone-depth="1"/>
    <project path="vendor/xiaomi/rosemary" name="proprietary_vendor_xiaomi_rosemary" remote="hubnukx" revision="lineage-20" clone-depth="1"/>
    
