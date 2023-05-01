@@ -22,7 +22,7 @@
    
    <!-- Extras -->
    <project path="vendor/mediatek/opensource" name="Nukxx/vendor_mediatek-opensource" remote="hub" revision="thirteen" clone-depth="1"/>
-   <project path="vendor/mediatek/interfaces" name="Nukxx/vendor_mediatek_interfaces" remote="hub" revision="thirteen" clone-depth="1"/>
-   <project path="device/mediatek/common" name="Nukxx/device_mediatek_common" remote="hub" revision="Yaap-thirteen" clone-depth="1"/>
+   <project path="vendor/mediatek/interfaces" name="Nukxx/vendor_mediatek_interfaces" remote="hub" revision="Yaap-thirteen" clone-depth="1"/>
+   <project path="device/mediatek/common" name="Nukxx/device_mediatek_common" remote="hub" revision="thirteen" clone-depth="1"/>
 
 </manifest>
